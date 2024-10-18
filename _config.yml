@@ -1,0 +1,13 @@
+title: Gautam Bhuyan
+email: gautam.bhuyan2825@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A personal website showcasing my research in Astronomy & Astrophysics.
+baseurl: "" # leave this empty unless your site is in a subdirectory
+url: "https://yourusername.github.io" # change to your GitHub Pages URL
+
+# Theme settings
+theme: minima  # or whatever theme you are using
+
+# Other settings (optional)
+markdown: kramdown
+permalink: pretty
